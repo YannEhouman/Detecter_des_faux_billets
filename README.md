@@ -1,1 +1,2 @@
 # Detecter_des_faux_billets
+J'ai pour projet de mettre en place une modélisation qui sera capable d'identifier automatiquement les billets authentiques et les faux billets. Cette modélisation sera basée sur les dimensions du billet et les éléments qui le composent. En utilisant ces informations, nous espérons être en mesure de développer un système capable de distinguer les billets authentiques des faux de manière efficace et fiable.
